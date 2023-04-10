@@ -3,8 +3,7 @@
     <head>     
 <title>Soal 5</title> 
 </head>
-<body>
-<body>     
+<body>    
     <form method="post">         
     <input type="text"name="kata">       
     <input type="submit"value="submit">    
